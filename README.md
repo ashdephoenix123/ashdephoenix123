@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning Web Development Course by Angela from Udemy
 - 💞️ I’m looking to collaborate on Front End Web developement
 - 📫 How to reach me - akashsarki24@gmail.com 
-
-# 💫 About Me:
-🌱 I’m currently learning Next JS
+- 🌱 I’m currently learning Next JS
 
 
 ## 🌐 Socials:
